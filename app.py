@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestClassifier
 import pickle
 
 st.write("""
-# Credit Card Default Prediction App
+# Credit Card Approval Prediction App
 
 This app predicts the credit card Default probablity
 """)
