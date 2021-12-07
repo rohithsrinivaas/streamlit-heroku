@@ -1,2 +1,2 @@
 # streamlit-heroku
-Streamlit+Heroku for Credit Approval Prediction
+Streamlit+Heroku for Credit Card Decline Prediction
